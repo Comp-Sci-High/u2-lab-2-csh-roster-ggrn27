@@ -10,6 +10,11 @@
 // Create an array for each class with the following names:
 // csRoster, mathRoster, elaRoster, ssRoster, electivesRoster (5 arrays total)
 // Each should contain 3 unique student names (you can make them up or use classmates)
+let csRoster =["Mya", "Tyrone", "Simone"];
+let mathRoster =["Jr" , "Olivia", "Asher"];
+let elaRoster = ["Ruby" , "Ilani", "Maylani"]
+let ssRoster = ["Grace", "Jamal" , "Spencer"]
+let electivesRoster = ["Laylani", "Kaylani", "Raylani"]
 
 
 
@@ -25,7 +30,11 @@
 // Add Peach → ELA
 // Add Laila → Social Studies
 // Add Jayden → Electives
-
+csRoster.push("JP")
+mathRoster.push("Arnold")
+elaRoster.push("Peach")
+ssRoster.push("Laila")
+electivesRoster.push("Jayden")
 
 
 
